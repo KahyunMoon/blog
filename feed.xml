@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://mkh0169.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mkh0169.github.io/" rel="alternate" type="text/html" /><updated>2021-02-21T19:21:27+09:00</updated><id>https://mkh0169.github.io/</id><title type="html">IT</title><subtitle>IT</subtitle><entry><title type="html">javascript(2) - Test(2)</title><link href="https://mkh0169.github.io/javascript-control-statement" rel="alternate" type="text/html" title="javascript(2) - Test(2)" /><published>2021-02-08T09:50:30+09:00</published><updated>2021-02-08T09:50:30+09:00</updated><id>https://mkh0169.github.io/javascript-control-statement</id><content type="html" xml:base="https://mkh0169.github.io/javascript-control-statement">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;javascript&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./javascript-test&quot;&gt;javascript(1) - Test&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./javascript-control-statement&quot;&gt;javascript(2) - Test(2)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;이것은 javascript 테스트2 입니다.&lt;/p&gt;</content><author><name>mkh0169</name></author><category term="javascript" /><summary type="html">javascript javascript(1) - Test javascript(2) - Test(2)</summary></entry><entry><title type="html">algorithm(2) - Test(2)</title><link href="https://mkh0169.github.io/algorithm-control-statement" rel="alternate" type="text/html" title="algorithm(2) - Test(2)" /><published>2021-02-08T09:45:30+09:00</published><updated>2021-02-08T09:45:30+09:00</updated><id>https://mkh0169.github.io/algorithm-control-statement</id><content type="html" xml:base="https://mkh0169.github.io/algorithm-control-statement">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;algorithm&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./algorithm-test&quot;&gt;algorithm(1) - Test&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./algorithm-control-statement&quot;&gt;algorithm(2) - Test(2)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;이것은 algorithm 테스트2 입니다.&lt;/p&gt;</content><author><name>mkh0169</name></author><category term="algorithm" /><summary type="html">algorithm algorithm(1) - Test algorithm(2) - Test(2)</summary></entry><entry><title type="html">javascript(1) - Test</title><link href="https://mkh0169.github.io/javascript-test" rel="alternate" type="text/html" title="javascript(1) - Test" /><published>2021-02-06T09:50:30+09:00</published><updated>2021-02-06T09:50:30+09:00</updated><id>https://mkh0169.github.io/javascript-test</id><content type="html" xml:base="https://mkh0169.github.io/javascript-test">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;javascript&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./javascript-test&quot;&gt;javascript(1) - Test&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./javascript-control-statement&quot;&gt;javascript(2) - Test(2)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;이것은 javascript 테스트 입니다.&lt;/p&gt;</content><author><name>mkh0169</name></author><category term="javascript" /><summary type="html">javascript javascript(1) - Test javascript(2) - Test(2)</summary></entry><entry><title type="html">algorithm(1) - Test</title><link href="https://mkh0169.github.io/algorithm-test" rel="alternate" type="text/html" title="algorithm(1) - Test" /><published>2021-02-06T09:45:30+09:00</published><updated>2021-02-06T09:45:30+09:00</updated><id>https://mkh0169.github.io/algorithm-test</id><content type="html" xml:base="https://mkh0169.github.io/algorithm-test">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;algorithm&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./algorithm-test&quot;&gt;algorithm(1) - Test&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./algorithm-control-statement&quot;&gt;algorithm(2) - Test(2)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;이것은 algorithm 테스트 입니다.&lt;/p&gt;</content><author><name>mkh0169</name></author><category term="algorithm" /><summary type="html">algorithm algorithm(1) - Test algorithm(2) - Test(2)</summary></entry></feed>
